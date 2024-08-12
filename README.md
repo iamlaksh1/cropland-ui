@@ -85,3 +85,4 @@ To Run Test Suite:
 
 Note : App runs on port 5173 - this is port added in CORS origin list. If you different port, please update 
 
+Note 2: Download the 2022 Cropland Raster from USDA and rename to 2022.tif  [Download-link](https://pdi.scinet.usda.gov/portal/apps/sites/#/cropcros/pages/download-data). Due to github size limit. Dummy file has been uploaded , please delete and use from USDA .Thanks!
