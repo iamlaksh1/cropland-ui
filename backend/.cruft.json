@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/timothycrosley/cookiecutter-python/",
+  "commit": "71391fd9999067ef4b38aa05e7116087fac431f8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Lakshmanan Venkatesan",
+      "email": "laksh.gisprog@gmail.com",
+      "github_username": "iamlaksh1",
+      "project_name": "cropland_api",
+      "description": "An simple API with geospatial capabilities using FastAPI framework and pixi",
+      "version": "0.0.1",
+      "_template": "https://github.com/timothycrosley/cookiecutter-python/"
+    }
+  },
+  "directory": null
+}

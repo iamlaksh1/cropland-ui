@@ -1,0 +1,486 @@
+[
+  {
+    "Crop": "Alfalfa",
+    "Code": "36"
+  },
+  {
+    "Crop": "Almonds",
+    "Code": "75"
+  },
+  {
+    "Crop": "Apples",
+    "Code": "68"
+  },
+  {
+    "Crop": "Aquaculture",
+    "Code": "92"
+  },
+  {
+    "Crop": "Apricots",
+    "Code": "223"
+  },
+  {
+    "Crop": "Asparagus",
+    "Code": "207"
+  },
+  {
+    "Crop": "Avocados",
+    "Code": "215"
+  },
+  {
+    "Crop": "Barley",
+    "Code": "21"
+  },
+  {
+    "Crop": "Barren",
+    "Code": "131"
+  },
+  {
+    "Crop": "Blueberries",
+    "Code": "242"
+  },
+  {
+    "Crop": "Broccoli",
+    "Code": "214"
+  },
+  {
+    "Crop": "Buckwheat",
+    "Code": "39"
+  },
+  {
+    "Crop": "Cabbage",
+    "Code": "243"
+  },
+  {
+    "Crop": "Camelina",
+    "Code": "38"
+  },
+  {
+    "Crop": "Canola",
+    "Code": "31"
+  },
+  {
+    "Crop": "Caneberries",
+    "Code": "55"
+  },
+  {
+    "Crop": "Cantaloupes",
+    "Code": "209"
+  },
+  {
+    "Crop": "Carrots",
+    "Code": "206"
+  },
+  {
+    "Crop": "Cauliflower",
+    "Code": "244"
+  },
+  {
+    "Crop": "Celery",
+    "Code": "245"
+  },
+  {
+    "Crop": "Cherries",
+    "Code": "66"
+  },
+  {
+    "Crop": "Chick_Peas",
+    "Code": "51"
+  },
+  {
+    "Crop": "Christmas_Trees",
+    "Code": "70"
+  },
+  {
+    "Crop": "Citrus",
+    "Code": "72"
+  },
+  {
+    "Crop": "Clover/Wildflowers",
+    "Code": "58"
+  },
+  {
+    "Crop": "Corn",
+    "Code": "1"
+  },
+  {
+    "Crop": "Cotton",
+    "Code": "2"
+  },
+  {
+    "Crop": "Cranberries",
+    "Code": "250"
+  },
+  {
+    "Crop": "Cucumbers",
+    "Code": "50"
+  },
+  {
+    "Crop": "Deciduous_Forest",
+    "Code": "141"
+  },
+  {
+    "Crop": "Dbl_Crop_Barley/Corn",
+    "Code": "237"
+  },
+  {
+    "Crop": "Dbl_Crop_Barley/Sorghum",
+    "Code": "235"
+  },
+  {
+    "Crop": "Dbl_Crop_Barley/Soybeans",
+    "Code": "254"
+  },
+  {
+    "Crop": "Dbl_Crop_Corn/Soybeans",
+    "Code": "241"
+  },
+  {
+    "Crop": "Dbl_Crop_Lettuce/Barley",
+    "Code": "233"
+  },
+  {
+    "Crop": "Dbl_Crop_Lettuce/Cantaloupe",
+    "Code": "231"
+  },
+  {
+    "Crop": "Dbl_Crop_Lettuce/Cotton",
+    "Code": "232"
+  },
+  {
+    "Crop": "Dbl_Crop_Oats/Corn",
+    "Code": "226"
+  },
+  {
+    "Crop": "Dbl_Crop_Soybeans/Cotton",
+    "Code": "239"
+  },
+  {
+    "Crop": "Dbl_Crop_Soybeans/Oats",
+    "Code": "240"
+  },
+  {
+    "Crop": "Dbl_Crop_Triticale/Corn",
+    "Code": "228"
+  },
+  {
+    "Crop": "Dbl_Crop_WinWht/Corn",
+    "Code": "225"
+  },
+  {
+    "Crop": "Dbl_Crop_WinWht/Cotton",
+    "Code": "238"
+  },
+  {
+    "Crop": "Dbl_Crop_WinWht/Sorghum",
+    "Code": "236"
+  },
+  {
+    "Crop": "Dbl_Crop_WinWht/Soybeans",
+    "Code": "26"
+  },
+  {
+    "Crop": "Developed/High_Intensity",
+    "Code": "124"
+  },
+  {
+    "Crop": "Developed/Low_Intensity",
+    "Code": "122"
+  },
+  {
+    "Crop": "Developed/Med_Intensity",
+    "Code": "123"
+  },
+  {
+    "Crop": "Developed/Open_Space",
+    "Code": "121"
+  },
+  {
+    "Crop": "Dry_Beans",
+    "Code": "42"
+  },
+  {
+    "Crop": "Durum_Wheat",
+    "Code": "22"
+  },
+  {
+    "Crop": "Eggplants",
+    "Code": "248"
+  },
+  {
+    "Crop": "Evergreen_Forest",
+    "Code": "142"
+  },
+  {
+    "Crop": "Fallow/Idle_Cropland",
+    "Code": "61"
+  },
+  {
+    "Crop": "Flaxseed",
+    "Code": "32"
+  },
+  {
+    "Crop": "Garlic",
+    "Code": "208"
+  },
+  {
+    "Crop": "Gourds",
+    "Code": "249"
+  },
+  {
+    "Crop": "Grapes",
+    "Code": "69"
+  },
+  {
+    "Crop": "Grassland/Pasture",
+    "Code": "176"
+  },
+  {
+    "Crop": "Greens",
+    "Code": "219"
+  },
+  {
+    "Crop": "Herbaceous_Wetlands",
+    "Code": "195"
+  },
+  {
+    "Crop": "Herbs",
+    "Code": "57"
+  },
+  {
+    "Crop": "Honeydew_Melons",
+    "Code": "213"
+  },
+  {
+    "Crop": "Hops",
+    "Code": "56"
+  },
+  {
+    "Crop": "Lentils",
+    "Code": "52"
+  },
+  {
+    "Crop": "Lettuce",
+    "Code": "227"
+  },
+  {
+    "Crop": "Millet",
+    "Code": "29"
+  },
+  {
+    "Crop": "Mint",
+    "Code": "14"
+  },
+  {
+    "Crop": "Misc_Vegs_&_Fruits",
+    "Code": "47"
+  },
+  {
+    "Crop": "Mixed_Forest",
+    "Code": "143"
+  },
+  {
+    "Crop": "Mustard",
+    "Code": "35"
+  },
+  {
+    "Crop": "Nectarines",
+    "Code": "218"
+  },
+  {
+    "Crop": "Oats",
+    "Code": "28"
+  },
+  {
+    "Crop": "Olives",
+    "Code": "211"
+  },
+  {
+    "Crop": "Onions",
+    "Code": "49"
+  },
+  {
+    "Crop": "Open_Water",
+    "Code": "111"
+  },
+  {
+    "Crop": "Oranges",
+    "Code": "212"
+  },
+  {
+    "Crop": "Other_Crops",
+    "Code": "44"
+  },
+  {
+    "Crop": "Other_Hay/Non_Alfalfa",
+    "Code": "37"
+  },
+  {
+    "Crop": "Other_Small_Grains",
+    "Code": "25"
+  },
+  {
+    "Crop": "Other_Tree_Crops",
+    "Code": "71"
+  },
+  {
+    "Crop": "Peaches",
+    "Code": "67"
+  },
+  {
+    "Crop": "Peanuts",
+    "Code": "10"
+  },
+  {
+    "Crop": "Pears",
+    "Code": "77"
+  },
+  {
+    "Crop": "Pecans",
+    "Code": "74"
+  },
+  {
+    "Crop": "Peppers",
+    "Code": "216"
+  },
+  {
+    "Crop": "Perennial_Ice/Snow",
+    "Code": "112"
+  },
+  {
+    "Crop": "Pistachios",
+    "Code": "204"
+  },
+  {
+    "Crop": "Plums",
+    "Code": "220"
+  },
+  {
+    "Crop": "Pomegranates",
+    "Code": "217"
+  },
+  {
+    "Crop": "Pop_or_Orn_Corn",
+    "Code": "13"
+  },
+  {
+    "Crop": "Potatoes",
+    "Code": "43"
+  },
+  {
+    "Crop": "Prunes",
+    "Code": "210"
+  },
+  {
+    "Crop": "Pumpkins",
+    "Code": "229"
+  },
+  {
+    "Crop": "Radishes",
+    "Code": "246"
+  },
+  {
+    "Crop": "Rape_Seed",
+    "Code": "34"
+  },
+  {
+    "Crop": "Rice",
+    "Code": "3"
+  },
+  {
+    "Crop": "Rye",
+    "Code": "27"
+  },
+  {
+    "Crop": "Safflower",
+    "Code": "33"
+  },
+  {
+    "Crop": "Sod/Grass_Seed",
+    "Code": "59"
+  },
+  {
+    "Crop": "Sorghum",
+    "Code": "4"
+  },
+  {
+    "Crop": "Soybeans",
+    "Code": "5"
+  },
+  {
+    "Crop": "Speltz",
+    "Code": "30"
+  },
+  {
+    "Crop": "Spring_Wheat",
+    "Code": "23"
+  },
+  {
+    "Crop": "Squash",
+    "Code": "222"
+  },
+  {
+    "Crop": "Strawberries",
+    "Code": "221"
+  },
+  {
+    "Crop": "Sugarbeets",
+    "Code": "41"
+  },
+  {
+    "Crop": "Sugarcane",
+    "Code": "45"
+  },
+  {
+    "Crop": "Sunflower",
+    "Code": "6"
+  },
+  {
+    "Crop": "Sweet_Corn",
+    "Code": "12"
+  },
+  {
+    "Crop": "Sweet_Potatoes",
+    "Code": "46"
+  },
+  {
+    "Crop": "Switchgrass",
+    "Code": "60"
+  },
+  {
+    "Crop": "Tobacco",
+    "Code": "11"
+  },
+  {
+    "Crop": "Tomatoes",
+    "Code": "54"
+  },
+  {
+    "Crop": "Triticale",
+    "Code": "205"
+  },
+  {
+    "Crop": "Turnips",
+    "Code": "247"
+  },
+  {
+    "Crop": "Vetch",
+    "Code": "224"
+  },
+  {
+    "Crop": "Walnuts",
+    "Code": "76"
+  },
+  {
+    "Crop": "Watermelons",
+    "Code": "48"
+  },
+  {
+    "Crop": "Winter_Wheat",
+    "Code": "24"
+  },
+  {
+    "Crop": "Woody_Wetlands",
+    "Code": "190"
+  }
+]
